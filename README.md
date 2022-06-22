@@ -1,7 +1,7 @@
 # cz-git 简易版教程
 > [cz-git](https://github.com/Zhengqbbb/cz-git)
 
-## npm 项目:
+## yarn 项目:
 > 使用 commitizen 命令行工具
 
 ### 1. 请确保你已经全局安装 commitizen 命令行工具
@@ -13,7 +13,7 @@ npm install -g commitizen
 ```bash
 git clone -b commitizen-npm https://github.com/Zhengqbbb/czgit-playground.git
 cd czgit-playground
-npm install
+yarn
 ```
 
 ### 3. 试试看！
