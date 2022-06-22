@@ -1,7 +1,7 @@
 # cz-git playground
 > provide [cz-git](https://github.com/Zhengqbbb/cz-git) configure playground
 
-## yarn repo:
+## pnpm repo:
 > Use commitizen cli
 
 ### 1. Make sure you have downloaded commitizen globally
