@@ -17,6 +17,11 @@
     "url": "https://github.com/Zhengqbbb/czgit-playground/issues"
   },
   "homepage": "https://github.com/Zhengqbbb/czgit-playground#readme",
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-git"
+    }
+  },
   "devDependencies": {
     "cz-git": "^1.3.5"
   }
