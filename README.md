@@ -12,7 +12,7 @@
 > [cz-git](https://github.com/Zhengqbbb/cz-git)
 
 ## 使用 commitizen 命令行工具
-- npm 仓库: [分支名: commitizen-npm](https://github.com/Zhengqbbb/czgit-playground/tree/commitizen-npm)
+- npm 仓库: [分支名: commitizen-npm-zh](https://github.com/Zhengqbbb/czgit-playground/tree/commitizen-npm-zh)
 - yarn 仓库:
 - pnpm 仓库:
 - yarn + lernajs 单体仓库:
