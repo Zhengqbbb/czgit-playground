@@ -1,6 +1,9 @@
 {
   "name": "czgit-playground",
   "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "version": "1.0.0",
   "description": "> provide [cz-git](https://github.com/Zhengqbbb/cz-git) configure playground",
   "main": "index.js",
