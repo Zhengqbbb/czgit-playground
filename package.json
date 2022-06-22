@@ -1,5 +1,6 @@
 {
   "name": "czgit-playground",
+  "private": true,
   "version": "1.0.0",
   "description": "> provide [cz-git](https://github.com/Zhengqbbb/cz-git) configure playground",
   "main": "index.js",
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/Zhengqbbb/czgit-playground#readme",
   "devDependencies": {
-    "cz-git": "^1.3.5"
+    "cz-git": "^1.3.5",
+    "lerna": "^5.1.4"
   }
 }
