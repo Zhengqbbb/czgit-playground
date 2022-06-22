@@ -1,17 +1,23 @@
 # cz-git playground
 > provide [cz-git](https://github.com/Zhengqbbb/cz-git) configure playground
 
-- npm repo: 
-- yarn repo:
-- pnpm repo:
-- yarn + lernajs monorepo:
-- pnpm monorepo:
+## npm repo:
+> Use commitizen cli
 
-## cz-git 简易版教程
-> [cz-git](https://github.com/Zhengqbbb/cz-git)
+### 1. Make sure you have downloaded commitizen globally
+```bash
+npm install -g commitizen
+``` 
 
-- npm 仓库: 
-- yarn 仓库:
-- pnpm 仓库:
-- yarn + lernajs 单体仓库:
-- pnpm 单体仓库:
+### 2. Clone the repository and download the dependencies
+```bash
+git clone -b commitizen-npm https://github.com/Zhengqbbb/czgit-playground.git
+cd czgit-playground
+npm install
+```
+
+### 3. Try use commitizen-cli
+```bash
+git add .
+cz
+```
