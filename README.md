@@ -11,7 +11,7 @@ npm install -g commitizen
 
 ### 2. 克隆项目并下载依赖
 ```bash
-git clone -b commitizen-npm https://github.com/Zhengqbbb/czgit-playground.git
+git clone -b commitizen-yarn-zh https://github.com/Zhengqbbb/czgit-playground.git
 cd czgit-playground
 yarn
 ```
