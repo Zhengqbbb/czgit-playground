@@ -13,7 +13,7 @@ npm install -g commitizen
 ```bash
 git clone -b commitizen-npm https://github.com/Zhengqbbb/czgit-playground.git
 cd czgit-playground
-yarn
+pnpm install
 ```
 
 ### 3. Try use commitizen-cli
