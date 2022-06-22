@@ -1,22 +1,22 @@
-# cz-git playground
-> provide [cz-git](https://github.com/Zhengqbbb/cz-git) configure playground
+# cz-git 简易版教程
+> [cz-git](https://github.com/Zhengqbbb/cz-git)
 
-## npm repo:
-> Use commitizen cli
+## npm 项目:
+> 使用 commitizen 命令行工具
 
-### 1. Make sure you have downloaded commitizen globally
+### 1. 请确保你已经全局安装 commitizen 命令行工具
 ```bash
 npm install -g commitizen
 ``` 
 
-### 2. Clone the repository and download the dependencies
+### 2. 克隆项目并下载依赖
 ```bash
 git clone -b commitizen-npm https://github.com/Zhengqbbb/czgit-playground.git
 cd czgit-playground
 npm install
 ```
 
-### 3. Try use commitizen-cli
+### 3. 试试看！
 ```bash
 git add .
 cz
