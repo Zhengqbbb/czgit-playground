@@ -11,7 +11,7 @@ npm install -g commitizen
 
 ### 2. Clone the repository and download the dependencies
 ```bash
-git clone -b commitizen-npm https://github.com/Zhengqbbb/czgit-playground.git
+git clone -b commitizen-pnpm-monorepo https://github.com/Zhengqbbb/czgit-playground.git
 cd czgit-playground
 pnpm install
 ```
