@@ -1,15 +1,16 @@
 /** @see: https://cz-git.qbenben.com/config/ */
+
+const fs = require('fs')
+const path = require('path')
+const packages = fs.readdirSync(path.resolve(__dirname, 'packages'))
+
 /** @type {import('cz-git').UserConfig} */
 module.exports = {
   rules: {
     // @see: https://commitlint.js.org/#/reference-rules
   },
   prompt: {
-    scopes: [
-      { name: 'site:    website related changes', value: 'site' },
-      { name: 'util:    utils related changes', value: 'util' },
-      { name: 'config:  configs related changes', value: 'config' },
-    ],
+    scopes: [...packages],
     customScopesAlign: 'top',
   }
 };
