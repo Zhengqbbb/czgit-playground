@@ -1,0 +1,10 @@
+{
+  "name": "czgit-playground",
+  "packageManager": "yarn@3.3.1",
+  "scripts": {
+    "cz": "czg"
+  },
+  "devDependencies": {
+    "czg": "^1.4.1"
+  }
+}
