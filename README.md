@@ -8,6 +8,9 @@
 - yarn + lernajs monorepo: [branch: commitizen-yarn-monorepo](https://github.com/Zhengqbbb/czgit-playground/tree/commitizen-yarn-monorepo)
 - pnpm monorepo: [branch: commitizen-pnpm-monorepo](https://github.com/Zhengqbbb/czgit-playground/tree/commitizen-pnpm-monorepo)
 
+## Use czg
+- yarn v3 repo: [branch: czg-yarn-v3](https://github.com/Zhengqbbb/czgit-playground/tree/czg-yarn-v3)
+
 
 <br>
 <br>
