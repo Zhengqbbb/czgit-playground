@@ -1,23 +1,10 @@
-# cz-git playground
-> provide [cz-git](https://github.com/Zhengqbbb/cz-git) configure playground
+# cz-git cache `custom-scope` demo
 
-## yarn repo:
-> Use commitizen cli
+From https://github.com/Zhengqbbb/cz-git/discussions/104
+See: ./commitlint.config.cjs
 
-### 1. Make sure you have downloaded commitizen globally
-```bash
-npm install -g commitizen
-``` 
+## write cache
+1. If u use scope. will set your current scope to `./.git/scope-cache.json` <br>by `formatMessageCB` callbackFn
 
-### 2. Clone the repository and download the dependencies
-```bash
-git clone -b commitizen-yarn https://github.com/Zhengqbbb/czgit-playground.git
-cd czgit-playground
-yarn
-```
-
-### 3. Try use commitizen-cli
-```bash
-git add .
-cz
-```
+## read cache
+2. If u rerun cz-git. will read from `./.git/scope-cache.json` and merge your setting scope to show
