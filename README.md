@@ -11,8 +11,11 @@
 ## Use czg
 - yarn v3 repo: [branch: czg-yarn-v3](https://github.com/Zhengqbbb/czgit-playground/tree/czg-yarn-v3)
 
+## Advanced Cook Book
+- [branch: cache-scope](https://github.com/Zhengqbbb/czgit-playground/tree/cache-scope): cache custom-scope to re-run using <br>
+  [Zhengqbbb/cz-git/discussions/104](https://github.com/Zhengqbbb/cz-git/discussions/104)
 
-<br>
+
 <br>
 <br>
 <br>
