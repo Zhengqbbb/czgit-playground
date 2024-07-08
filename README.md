@@ -7,6 +7,7 @@
 - pnpm repo: [branch: commitizen-pnpm](https://github.com/Zhengqbbb/czgit-playground/tree/commitizen-pnpm)
 - yarn + lernajs monorepo: [branch: commitizen-yarn-monorepo](https://github.com/Zhengqbbb/czgit-playground/tree/commitizen-yarn-monorepo)
 - pnpm monorepo: [branch: commitizen-pnpm-monorepo](https://github.com/Zhengqbbb/czgit-playground/tree/commitizen-pnpm-monorepo)
+- esm configure usage: [branch: commitizen-esm](https://github.com/Zhengqbbb/czgit-playground/tree/commitizen-esm)
 
 ## Use czg
 - yarn v3 repo: [branch: czg-yarn-v3](https://github.com/Zhengqbbb/czgit-playground/tree/czg-yarn-v3)
