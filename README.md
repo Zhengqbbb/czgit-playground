@@ -32,3 +32,4 @@
 - pnpm 仓库: [分支名: commitizen-pnpm-zh](https://github.com/Zhengqbbb/czgit-playground/tree/commitizen-pnpm-zh)
 - yarn + lernajs 单体仓库: [分支名: commitizen-yarn-monorepo-zh](https://github.com/Zhengqbbb/czgit-playground/tree/commitizen-yarn-monorepo-zh)
 - pnpm 单体仓库: [分支名: commitizen-pnpm-monorepo-zh](https://github.com/Zhengqbbb/czgit-playground/tree/commitizen-pnpm-monorepo-zh)
+- esm 配置使用: [分支名: commitizen-esm](https://github.com/Zhengqbbb/czgit-playground/tree/commitizen-esm)
