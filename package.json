@@ -26,7 +26,7 @@
   "devDependencies": {
     "@commitlint/cli": "^19.3.0",
     "@commitlint/config-conventional": "^19.2.2",
-    "@esbuild-kit/cjs-loader": "^2.4.4",
-    "cz-git": "latest"
+    "cz-git": "1.11.0-beta.1",
+    "czg": "1.11.0-beta.1"
   }
 }
